@@ -14,3 +14,4 @@ RGBLIGHT_ENABLE = no        # Enable keyboard RGB underglow
 RGB_MATRIX_ENABLE = yes		# Enable keyobard keys RGB
 DIP_SWITCH_ENABLE = yes		# Enable DIP Switch on the back
 OPENRGB_ENABLE = yes
+RGB_MATRIX_DRIVER = aw20216s

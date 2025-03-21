@@ -20,4 +20,5 @@ static bool custom_effect(effect_params_t* params) {
   return effect_runner_i(params, &BREATHING_math);
 }
 
-#endif // RGB_MATRIX_CUSTOM_EFFECT_IMPLS
+#    endif // RGB_MATRIX_CUSTOM_EFFECT_IMPLS
+#endif     // ENABLE_RGB_MATRIX_BAND_VAL

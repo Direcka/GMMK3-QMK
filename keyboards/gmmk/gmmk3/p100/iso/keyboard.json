@@ -12,7 +12,7 @@
         "tap_keycode_delay": 10
     },
     "bootmagic": {
-        "matrix": [1, 3]    // Enter Bootloader mode via ESC
+        "matrix": [1, 3]  
     },
     "matrix_pins": {
         "cols": ["A0", "A1", "A2", "A3", "A4", "C1", "C2", "C3"],
